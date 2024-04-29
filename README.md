@@ -1,5 +1,6 @@
 #Hi Folks!!!
 # I'm Ravikrishna B 👋
+A Frontend developer from SKCET
 <img alt = "my status" src="https://github-readme-stats.vercel.app/api?username=Ravikrishna25&show_icons=true&theme=dracula"/>
 
 
