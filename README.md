@@ -10,7 +10,7 @@
 
 ###
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=joshuafern&row=1&column=7&margin-w=15" alt="joshuafern"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ravikrishna25&row=1&column=7&margin-w=15" alt="joshuafern"/>
 </p>
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Ravikrishna25&margin-w=16&theme=monokai" alt="de-soot's Github Trophies">
