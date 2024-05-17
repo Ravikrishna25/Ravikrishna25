@@ -11,8 +11,7 @@
 
 
 <img alt = "my status" src="https://github-readme-stats.vercel.app/api?username=Ravikrishna25&show_icons=true&theme=dracula"/>
-<img alt = "my status" src="(https://github-readme-streak-stats.herokuapp.com/?user=Ravikrishna25&theme=react&hide_border=false&theme=dracula"/>
-
+![Ravikrishna25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravikrishna25&theme=react&hide_border=false)
 
 <img alt="my top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikrishna25&layout=donut" />
 <!--
