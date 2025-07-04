@@ -1,6 +1,6 @@
 #Hi Folks!!!
 # I'm Ravikrishna B 👋
-- 🔭 I’m currently working as a FreeLancer
+- 🔭 I’m currently working as an SDE in Amazon
 - 🌱 I’m currently learning NestJs
 - 👯 I’m looking to collaborate on any Web Development Projects
 - 🤔 I’m looking for help with WhatsApp Api Integration
